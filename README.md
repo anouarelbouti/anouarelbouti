@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/FPGA_board.jpg" alt="Electronics & Embedded Systems" width="700px" />
+  <img src="guts.gif" alt="guts GIF" width="100%" />
 </p>
 
 <p align="center">
