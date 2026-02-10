@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="suku.gif" alt="Suku GIF" width="100%" />
+  <img src="suku.gif" alt="Suku GIF" width="700px" />
 </p>
 
 <p align="center">
