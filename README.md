@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- GIF طويل على اليسار و About Me على اليمين -->
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px; margin-bottom: 40px;">
+<!-- GIF طويل على اليسار و About Me بجانبه -->
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 40px; margin-bottom: 40px;">
 
   <!-- GIF -->
   <div>
@@ -13,7 +13,7 @@
   </div>
 
   <!-- About Me -->
-  <div style="max-width: 450px; text-align: left;">
+  <div style="max-width: 500px; text-align: left;">
 ### 👋 About Me
 
 Engineering student passionate about **Electronics, Embedded Systems, and Computer Architecture**.  
@@ -22,7 +22,7 @@ I enjoy working close to the hardware level: **CPU design, VHDL, low-level progr
 
 </div>
 
-<!-- Profile / Stats / Visitor Counter in center -->
+<!-- Profile / Stats / Visitor Counter في الوسط -->
 <p align="center">
   <img src="https://socialify.git.ci/anouarelbouti/anouarelbouti/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark"
        alt="Anouar El Bouti" width="700" height="300" />
@@ -84,4 +84,9 @@ currently_learning:
   - Embedded Linux
 
 career_goal:
-  - Embedded
+  - Embedded Systems Engineer / FPGA-Oriented Engineer
+
+hobbies:
+  - Competitive Gaming
+  - Technology & Hardware
+  - Problem Solving
