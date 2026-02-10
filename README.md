@@ -1,54 +1,78 @@
-<div align="center">
-<br/>
-<!-- GIF متحرك كبير -->
-<img src="./suku.gif" alt="Here is a little bit about me!" width="300px">
+[![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/wakatime-stats/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
+[![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/update-gh-activity/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=anouarelbouti.anouarelbouti)
 
-<br />
+<p align="center">
+  <!-- GIF متحرك -->
+  <img src="./suku.gif" alt="Anouar El Bouti GIF" width="700" height="300" />
+</p>
 
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anouar-el-bouti-896825319">
+    <img alt="Anouar El Bouti LinkedIn" width="50px"
+         src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  </a>
+</p>
 
-<br/>
-<br/>
+---
 
-### **Having fun with these stacks 👨🏽‍💻**
+## 👋 About Me
 
-<br/>
-<div>
-<img src="https://img.shields.io/badge/C%20-%23007ACC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/VHDL-%23FF0000.svg?&style=for-the-badge&logo=verilog&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-<br/>
-<div>
-<img src="https://img.shields.io/badge/Linux-%23000000.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-%230078B3.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-<br/>
-<div>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+Engineering student passionate about **Electronics, Embedded Systems, and Computer Architecture**.  
+I enjoy working close to the hardware level: **CPU design, VHDL, low-level programming**, and understanding how software truly interacts with hardware.
 
-<br/>
+---
 
-### and more >w<
+## 🧠 Profile
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vhdl/vhdl.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+```yaml
+name: Anouar El Bouti
+located_in: Morocco
+status: Engineering Student
+field: Electronics & Embedded Systems
 
-<br/>
+education:
+  - Engineering Studies in Electronics & Embedded Systems
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anouarelbouti&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+technical_skills:
+  - Embedded Systems (C / C++)
+  - VHDL & Digital Design
+  - FPGA & Custom CPU Architecture
+  - Computer Architecture
+  - Linux & Virtual Machines
+  - Hardware / Software Co-design
+  - Low-level Programming
 
-<br/>
+tools_and_tech:
+  - VHDL
+  - C, C++
+  - Git & GitHub
+  - Linux (Ubuntu)
+  - VirtualBox / Hyper-V
+  - Arduino
+  - Simulation & Debugging
 
-### Can you break this counter?
+projects:
+  - 8-bit CPU Design (VHDL)
+  - CPU Pipeline & Control Unit Simulation
+  - Embedded Systems Academic Projects
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=anouarelbouti)
+fields_of_interest:
+  - Embedded Systems Engineering
+  - Processor & CPU Design
+  - Digital Electronics
+  - Low-level Systems
+  - Performance & Optimization
 
-</div>
+currently_learning:
+  - Advanced VHDL
+  - Computer Architecture
+  - Embedded Linux
+
+career_goal:
+  - Embedded Systems Engineer / FPGA-Oriented Engineer
+
+hobbies:
+  - Competitive Gaming
+  - Technology & Hardware
+  - Problem Solving
