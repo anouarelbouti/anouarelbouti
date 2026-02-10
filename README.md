@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="guts.gif" alt="guts GIF" width="100%" />
+  <img src="guts.gif" alt="guts GIF" width="700px" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anouar-el-bouti-896825319">
-    <img alt="Anouar El Bouti LinkedIn" width="50px"
-         src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-  </a>
-</p>
+
 
 ---
 
