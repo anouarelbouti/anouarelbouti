@@ -1,10 +1,5 @@
-[![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/wakatime-stats/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
-[![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/update-gh-activity/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=anouarelbouti.anouarelbouti)
-
 <p align="center">
-  <img src="https://socialify.git.ci/anouarelbouti/anouarelbouti/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark"
-       alt="Anouar El Bouti" width="700" height="300" />
+  <img src="suku.gif" alt="Suku GIF" width="100%" />
 </p>
 
 <p align="center">
