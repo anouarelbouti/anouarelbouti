@@ -6,14 +6,14 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Engineering student passionate about **Electronics, Embedded Systems, and Computer Architecture**.  
 I enjoy working close to the hardware level: **CPU design, VHDL, low-level programming**, and understanding how software truly interacts with hardware.
 
 ---
 
-## 🧠 Profile
+##  Profile
 
 ```yaml
 name: Anouar El Bouti
