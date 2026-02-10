@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
+  <!-- أيقونة شخصية Toji -->
   <a href="https://www.linkedin.com/in/anouar-el-bouti-896825319">
-    <img alt="Anouar El Bouti LinkedIn" width="50px"
-         src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+    <img alt="Toji Logo" width="50px" src="./toji-logo.png" />
   </a>
 </p>
 
