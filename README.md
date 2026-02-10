@@ -2,15 +2,19 @@
 [![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/update-gh-activity/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=anouarelbouti.anouarelbouti)
 
+<!-- GIF متحرك لشخصية Toji -->
+<div align="center">
+  <img src="./toji-manga-toji.gif" alt="Toji Animation" width="200px" />
+</div>
+
 <p align="center">
   <img src="https://socialify.git.ci/anouarelbouti/anouarelbouti/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark"
        alt="Anouar El Bouti" width="700" height="300" />
 </p>
 
 <p align="center">
-  <!-- أيقونة شخصية Toji -->
   <a href="https://www.linkedin.com/in/anouar-el-bouti-896825319">
-    <img alt="Toji Logo" width="50px" src="./toji-logo.png" />
+    <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
   </a>
 </p>
 
