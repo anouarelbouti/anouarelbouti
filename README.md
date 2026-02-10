@@ -2,28 +2,27 @@
 [![Actions Status](https://github.com/anouarelbouti/anouarelbouti/workflows/update-gh-activity/badge.svg)](https://github.com/anouarelbouti/anouarelbouti/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=anouarelbouti.anouarelbouti)
 
-<p align="center">
-  <!-- GIF متحرك -->
-  <img src="./suku.gif" alt="Anouar El Bouti GIF" width="700" height="300" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anouar-el-bouti-896825319">
-    <img alt="Anouar El Bouti LinkedIn" width="50px"
-         src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-  </a>
-</p>
+<!-- Flex container: GIF على اليسار، About Me على اليمين -->
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 40px;">
 
----
+  <!-- GIF طويل -->
+  <div>
+    <img src="./suku.gif" alt="Anouar El Bouti GIF" width="180px" height="400px" />
+  </div>
 
-## 👋 About Me
+  <!-- About Me و Profile -->
+  <div style="max-width: 500px; text-align: left;">
+
+### 👋 About Me
 
 Engineering student passionate about **Electronics, Embedded Systems, and Computer Architecture**.  
 I enjoy working close to the hardware level: **CPU design, VHDL, low-level programming**, and understanding how software truly interacts with hardware.
 
 ---
 
-## 🧠 Profile
+### 🧠 Profile
 
 ```yaml
 name: Anouar El Bouti
