@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
-<!-- GIF متحرك لشخصية Toji -->
-<img src="./toji-manga-toji.gif" alt="Here is a little bit about me!" width="250px">
+<!-- GIF متحرك كبير -->
+<img src="./suku.gif" alt="Here is a little bit about me!" width="300px">
 
 <br />
 
